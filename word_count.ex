@@ -8,6 +8,8 @@ defmodule WordCount do
                "word":       Count Words in File
                "lines":      Count Lines in File
                "characters": Count Characters in File
+
+
       """
     )
     case String.trim(choice) do
